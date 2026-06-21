@@ -17,15 +17,6 @@ A modern and responsive Job Application Tracker built with React and Vite. This 
 
 ---
 
-## 📸 Preview
-
-Add screenshots of your application here.
-
-```md
-![Dashboard Screenshot](screenshot1.png)
-```
-
----
 
 ## 🛠️ Technologies Used
 
